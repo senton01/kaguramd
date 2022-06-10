@@ -3369,13 +3369,13 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
                             }]
                          let setbot = db.data.settings[botNumber]
                         if (setbot.templateImage) {
-                        kagura.send5ButImg(m.chat, anu, `© SEWA BOT 7K`, global.thumb, btn)
+                        kagura.send5ButImg(m.chat, anu, `© 𝙉𝙖𝙣𝙖𝙙 𝙖𝙬𝙝`, global.thumb, btn)
                         } else if (setbot.templateGif) {
-                        kagura.send5ButGif(m.chat, anu, `© SEWA BOT 7K`, global.visoka, btn)
+                        kagura.send5ButGif(m.chat, anu, `© 𝙉𝙖𝙣𝙖𝙙 𝙖𝙬𝙝`, global.visoka, btn)
                         } else if (setbot.templateVid) {
-                        kagura.send5ButVid(m.chat, anu, `© SEWA BOT 7K`, global.visoka, btn)
+                        kagura.send5ButVid(m.chat, anu, `© 𝙉𝙖𝙣𝙖𝙙 𝙖𝙬𝙝`, global.visoka, btn)
                         } else if (setbot.templateMsg) {
-                        kagura.send5ButMsg(m.chat, anu, `© SEWA BOT 7K`, btn)
+                        kagura.send5ButMsg(m.chat, anu, `© 𝙉𝙖𝙣𝙖𝙙 𝙖𝙬𝙝`, btn)
                         }
                      }
             break
