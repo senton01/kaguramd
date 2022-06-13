@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285790245056','6285790245056']
-global.premium = ['6285790245056']
-global.botname = '𝙈𝙀𝙇𝙔 𝙎𝙏𝙊𝙍𝙀'
-global.ownername = '𝙈𝙀𝙇𝙔'
-global.packname = '𝙈𝙀𝙇𝙔 𝙎𝙏𝙊𝙍𝙀'
-global.author = '𝙈𝙀𝙇𝙔'
+global.owner = ['6281914806147','6281914806147']
+global.premium = ['6281914806147']
+global.botname = '𝘽𝘼𝙍𝙊𝙉 𝘽𝙊𝙏𝙕'
+global.ownername = '𝘽𝘼𝙍𝙊𝙉'
+global.packname = '𝘽𝘼𝙍𝙊𝙉 𝘽𝙊𝙏𝙕'
+global.author = '𝘽𝘼𝙍𝙊𝙉'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -36,7 +36,7 @@ global.limitawal = {
 premium: "Infinity",
 free: 50
 }
-global.thumb = fs.readFileSync('./media/mely.jpg')
+global.thumb = fs.readFileSync('./media/unyu.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
